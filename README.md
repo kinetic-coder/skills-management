@@ -1,5 +1,4 @@
-[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=kinetic-coder_skills-management
-&metric=alert_status)](https://sonarcloud.io/dashboard?id=kinetic-coder_skills-management)
+[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=kinetic-coder_skills-management&metric=alert_status)](https://sonarcloud.io/dashboard?id=kinetic-coder_skills-management)
 
 # Skills Management
 The right skills and knowledge are one of many key ingredients that make a successful team.
