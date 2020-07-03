@@ -1,3 +1,5 @@
+[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=com.lapots.breed.judge:judge-rule-engine&metric=alert_status)](https://sonarcloud.io/dashboard?id=com.lapots.breed.judge:judge-rule-engine)
+
 # Skills Management
 The right skills and knowledge are one of many key ingredients that make a successful team.
 
