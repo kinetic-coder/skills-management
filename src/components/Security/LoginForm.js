@@ -15,8 +15,7 @@ const LoginForm = ({ issuer }) => {
     const oktaAuth = new OktaAuth({ issuer: issuer });
     oktaAuth.signIn({ username, password })
     .then(res => {
-      const sessionToken = res.sessionToken;
-      setSessionToken(sessionToken);
+      setSessionToken(res.sessionToken);
       // sessionToken is a one-use token, so make sure this is only called once
       authService.redirect({ sessionToken });
     })
