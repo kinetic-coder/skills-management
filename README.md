@@ -15,3 +15,5 @@ This project is focusing on creating a tool that allows teams to manage their ow
 # Tools
 This project uses React to create a Single Page Application.
 
+Okta user verification is used to login and validate users
+
