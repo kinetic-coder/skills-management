@@ -2,7 +2,7 @@
   "name": "skills-management",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://kinetic-coder.github.io/skills-management/",
+  "homepage": "https://kinetic-coder.github.io/skills-management",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -15,14 +15,11 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
-    "gh-pages": "latest"
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
