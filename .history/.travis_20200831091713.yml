@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+    - "node"
+after_success:
+    - git config --global user.name $git-hub-username
+    - git config --global user.email $git-hub-email-address
+    - git remove rm origin
+    - git remote add origin https://github.com/kinetic-coder/skills-management
