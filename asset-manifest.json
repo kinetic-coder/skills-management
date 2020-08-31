@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/skills-management/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/skills-management/static/js/main.e33e9f46.chunk.js",
+    "main.js.map": "/skills-management/static/js/main.e33e9f46.chunk.js.map",
+    "runtime-main.js": "/skills-management/static/js/runtime-main.cef1ba8c.js",
+    "runtime-main.js.map": "/skills-management/static/js/runtime-main.cef1ba8c.js.map",
+    "static/js/2.0325b433.chunk.js": "/skills-management/static/js/2.0325b433.chunk.js",
+    "static/js/2.0325b433.chunk.js.map": "/skills-management/static/js/2.0325b433.chunk.js.map",
+    "index.html": "/skills-management/index.html",
+    "precache-manifest.a8022d7138979e6e6d800e4ecbd554b7.js": "/skills-management/precache-manifest.a8022d7138979e6e6d800e4ecbd554b7.js",
+    "service-worker.js": "/skills-management/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/skills-management/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0325b433.chunk.js.LICENSE.txt": "/skills-management/static/js/2.0325b433.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef1ba8c.js",
+    "static/js/2.0325b433.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e33e9f46.chunk.js"
+  ]
+}

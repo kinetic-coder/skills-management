@@ -1,0 +1,40 @@
+body {
+    margin:0;
+    font-family:"Caveat", serif;
+    background: #ece6e6;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+/*********************************
+ * Banner 
+ */
+.banner {
+    background:url('../images/books.png');
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    height: 100px;
+}
+/*
+ * end banner 
+ *********************************/
+ 
+ .header {
+    height: 10px;
+    padding: 10px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 12px;
+}
+
+.brand {
+    height: 50px;
+}
+
+.text-field { 
+    width:400px;
+}
