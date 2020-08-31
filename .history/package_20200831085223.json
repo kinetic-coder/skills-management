@@ -2,7 +2,7 @@
   "name": "skills-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kinetic-coder.github.io/skills-management",
+  
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
